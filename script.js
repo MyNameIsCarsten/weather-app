@@ -1,5 +1,5 @@
 // Import the API key
-const apiKey = '41e824aea5593f52693ccfea198566d5'
+const apiKey = 'YOUR_API_KEY'
 
 const searchBox = document.querySelector('.search input')
 const rightBtn = document.querySelector('#rightBtn')
