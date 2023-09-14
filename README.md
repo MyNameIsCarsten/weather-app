@@ -4,7 +4,7 @@ This Weather App is a web application that provides real-time weather informatio
 
 ![Search-bar](./images/search-bar.jpg)
 ## Features
-1. **API Integration:** The Weather App integrates with the OpenWeather API to fetch weather data based on user-provided city names.
+1. **API Integration:** The Weather App integrates with the OpenWeather API to fetch weather data based on the user location (home button) or an user-provided city name (search button).
 
 2. **Asynchronous JavaScript:** The use of async/await ensures that API requests are made asynchronously, preventing the application from freezing while waiting for a response from the server.
 
